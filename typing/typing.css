@@ -1,0 +1,14 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Jersey+15+Charted&display=swap'); */
+
+body{
+    margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+background-color: rgb(241, 163, 108);
+    font-family:  Impact, sans-serif
+  }
+  
+  
